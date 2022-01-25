@@ -1,6 +1,6 @@
 #!/usr/local/bin/python
 import csv
-import os, sys
+import os
 import data_process as dp
 from gensim.models import Doc2Vec
 from gensim.models.doc2vec import TaggedDocument
